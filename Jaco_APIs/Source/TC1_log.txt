@@ -1,0 +1,126 @@
+[경고: bbci_acquire_bv: no open connection to close!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Complex_Tasks', 'C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Complex_Tasks.m', 32)" style="font-weight:bold">Complex_Tasks</a> (<a href="matlab: opentoline('C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Complex_Tasks.m',32,0)">line 32</a>)] 
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoComm')" style="font-weight:bold">JacoComm</a>
+지정된 슈퍼클래스 'matlab.system.mixin.internal.SampleTime'에 구문 분석 오류가 있거나 MATLAB의 검색 경로에서 이 클래스를 찾을 수 없습니다. 또는 이 클래스가 동일한 이름의 다른 파일에
+의해 가려져 있을 수 있습니다.
+오류 발생: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoInit', 'C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\JacoInit.m', 3)" style="font-weight:bold">JacoInit</a> (<a href="matlab: opentoline('C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\JacoInit.m',3,0)">line 3</a>)
+jc = JacoComm;
+오류 발생: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Complex_Tasks', 'C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Complex_Tasks.m', 36)" style="font-weight:bold">Complex_Tasks</a> (<a href="matlab: opentoline('C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Complex_Tasks.m',36,0)">line 36</a>)
+[jc, pos, vel, torque, temp, effector_pos] = JacoInit(finger_open);} 
+matlab.internal.language.introspective.errorDocCallback('JacoComm')
+matlab.internal.language.introspective.errorDocCallback('JacoComm')
+Complex_Tasks
+[경고: bbci_acquire_bv: no open connection to close!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Complex_Tasks', 'C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Complex_Tasks.m', 32)" style="font-weight:bold">Complex_Tasks</a> (<a href="matlab: opentoline('C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Complex_Tasks.m',32,0)">line 32</a>)] 
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoComm')" style="font-weight:bold">JacoComm</a>
+지정된 슈퍼클래스 'matlab.system.mixin.internal.SampleTime'에 구문 분석 오류가 있거나 MATLAB의 검색 경로에서 이 클래스를 찾을 수 없습니다. 또는 이 클래스가 동일한 이름의 다른 파일에
+의해 가려져 있을 수 있습니다.
+오류 발생: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoInit', 'C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\JacoInit.m', 3)" style="font-weight:bold">JacoInit</a> (<a href="matlab: opentoline('C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\JacoInit.m',3,0)">line 3</a>)
+jc = JacoComm;
+오류 발생: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Complex_Tasks', 'C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Complex_Tasks.m', 36)" style="font-weight:bold">Complex_Tasks</a> (<a href="matlab: opentoline('C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Complex_Tasks.m',36,0)">line 36</a>)
+[jc, pos, vel, torque, temp, effector_pos] = JacoInit(finger_open);} 
+uiopen('F:\Demo\Reaching_and_Grasping.m',1)
+Reaching_and_Grasping
+[경고: bbci_acquire_bv: no open connection to close!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Reaching_and_Grasping', 'F:\Demo\Reaching_and_Grasping.m', 7)" style="font-weight:bold">Reaching_and_Grasping</a> (<a href="matlab: opentoline('F:\Demo\Reaching_and_Grasping.m',7,0)">line 7</a>)] 
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoComm')" style="font-weight:bold">JacoComm</a>
+지정된 슈퍼클래스 'matlab.system.mixin.internal.SampleTime'에 구문 분석 오류가 있거나 MATLAB의 검색 경로에서 이 클래스를 찾을 수 없습니다. 또는 이 클래스가 동일한 이름의 다른 파일에 의해
+가려져 있을 수 있습니다.
+오류 발생: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Reaching_and_Grasping', 'F:\Demo\Reaching_and_Grasping.m', 10)" style="font-weight:bold">Reaching_and_Grasping</a> (<a href="matlab: opentoline('F:\Demo\Reaching_and_Grasping.m',10,0)">line 10</a>)
+jc = JacoComm; % JacoComm 펑션 jc 로 불러오기} 
+opentoline('F:\Demo\Reaching_and_Grasping.m',10,0)
+opentoline('F:\Demo\Reaching_and_Grasping.m',10,0)
+Reaching_and_Grasping
+[경고: bbci_acquire_bv: no open connection to close!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Reaching_and_Grasping', 'F:\Demo\Reaching_and_Grasping.m', 7)" style="font-weight:bold">Reaching_and_Grasping</a> (<a href="matlab: opentoline('F:\Demo\Reaching_and_Grasping.m',7,0)">line 7</a>)] 
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoComm')" style="font-weight:bold">JacoComm</a>
+지정된 슈퍼클래스 'matlab.system.mixin.internal.SampleTime'에 구문 분석 오류가 있거나 MATLAB의 검색 경로에서 이 클래스를 찾을 수 없습니다. 또는 이 클래스가 동일한 이름의 다른 파일에 의해
+가려져 있을 수 있습니다.
+오류 발생: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Reaching_and_Grasping', 'F:\Demo\Reaching_and_Grasping.m', 10)" style="font-weight:bold">Reaching_and_Grasping</a> (<a href="matlab: opentoline('F:\Demo\Reaching_and_Grasping.m',10,0)">line 10</a>)
+jc = JacoComm; % JacoComm 펑션 jc 로 불러오기} 
+clear; close; clc;
+%% initialization
+bbci_acquire_bv('close'); % BBCI tool box 내장 function
+[경고: bbci_acquire_bv: no open connection to close!] 
+startup_bbci; % BBCI tool box 시작
+
+jc = JacoComm; % JacoComm 펑션 jc 로 불러오기
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoComm')" style="font-weight:bold">JacoComm</a>
+지정된 슈퍼클래스 'matlab.system.mixin.internal.SampleTime'에 구문 분석 오류가 있거나 MATLAB의 검색 경로에서 이 클래스를 찾을 수 없습니다. 또는 이 클래스가 동일한 이름의 다른 파일에 의해
+가려져 있을 수 있습니다.} 
+Reaching_and_Grasping
+[경고: bbci_acquire_bv: no open connection to close!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Reaching_and_Grasping', 'F:\Demo\Reaching_and_Grasping.m', 7)" style="font-weight:bold">Reaching_and_Grasping</a> (<a href="matlab: opentoline('F:\Demo\Reaching_and_Grasping.m',7,0)">line 7</a>)] 
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoComm')" style="font-weight:bold">JacoComm</a>
+지정된 슈퍼클래스 'matlab.system.mixin.internal.SampleTime'에 구문 분석 오류가 있거나 MATLAB의 검색 경로에서 이 클래스를 찾을 수 없습니다. 또는 이 클래스가 동일한 이름의 다른 파일에 의해
+가려져 있을 수 있습니다.
+오류 발생: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Reaching_and_Grasping', 'F:\Demo\Reaching_and_Grasping.m', 10)" style="font-weight:bold">Reaching_and_Grasping</a> (<a href="matlab: opentoline('F:\Demo\Reaching_and_Grasping.m',10,0)">line 10</a>)
+jc = JacoComm; % JacoComm 펑션 jc 로 불러오기} 
+Reaching_and_Grasping
+[경고: bbci_acquire_bv: no open connection to close!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Reaching_and_Grasping', 'F:\Demo\Reaching_and_Grasping.m', 7)" style="font-weight:bold">Reaching_and_Grasping</a> (<a href="matlab: opentoline('F:\Demo\Reaching_and_Grasping.m',7,0)">line 7</a>)] 
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoComm')" style="font-weight:bold">JacoComm</a>
+지정된 슈퍼클래스 'matlab.system.mixin.internal.SampleTime'에 구문 분석 오류가 있거나 MATLAB의 검색 경로에서 이 클래스를 찾을 수 없습니다. 또는 이 클래스가 동일한 이름의 다른 파일에 의해
+가려져 있을 수 있습니다.
+오류 발생: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Reaching_and_Grasping', 'F:\Demo\Reaching_and_Grasping.m', 10)" style="font-weight:bold">Reaching_and_Grasping</a> (<a href="matlab: opentoline('F:\Demo\Reaching_and_Grasping.m',10,0)">line 10</a>)
+jc = JacoComm; % JacoComm 펑션 jc 로 불러오기} 
+clear; close; clc;
+%% initialization
+bbci_acquire_bv('close'); % BBCI tool box 내장 function
+[경고: bbci_acquire_bv: no open connection to close!] 
+startup_bbci; % BBCI tool box 시작
+
+jc = JacoComm; % JacoComm 펑션 jc 로 불러오기
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoComm')" style="font-weight:bold">JacoComm</a>
+지정된 슈퍼클래스 'matlab.system.mixin.internal.SampleTime'에 구문 분석 오류가 있거나 MATLAB의 검색 경로에서 이 클래스를 찾을 수 없습니다. 또는 이 클래스가 동일한 이름의 다른 파일에 의해
+가려져 있을 수 있습니다.} 
+matlab.internal.language.introspective.errorDocCallback('JacoComm')
+jc = JacoComm; % JacoComm 펑션 jc 로 불러오기
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoComm')" style="font-weight:bold">JacoComm</a>
+지정된 슈퍼클래스 'matlab.system.mixin.internal.SampleTime'에 구문 분석 오류가 있거나 MATLAB의 검색 경로에서 이 클래스를 찾을 수 없습니다. 또는 이 클래스가 동일한 이름의 다른 파일에 의해
+가려져 있을 수 있습니다.} 
+matlab.internal.language.introspective.errorDocCallback('JacoComm')
+jc = JacoComm; % JacoComm 펑션 jc 로 불러오기
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoComm')" style="font-weight:bold">JacoComm</a>
+지정된 슈퍼클래스 'matlab.system.mixin.internal.SampleTime'에 구문 분석 오류가 있거나 MATLAB의 검색 경로에서 이 클래스를 찾을 수 없습니다. 또는 이 클래스가 동일한 이름의 다른 파일에
+의해 가려져 있을 수 있습니다.} 
+jc = JacoComm; % JacoComm 펑션 jc 로 불러오기
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoComm')" style="font-weight:bold">JacoComm</a>
+지정된 슈퍼클래스 'matlab.system.mixin.internal.SampleTime'에 구문 분석 오류가 있거나 MATLAB의 검색 경로에서 이 클래스를 찾을 수 없습니다. 또는 이 클래스가 동일한 이름의 다른 파일에
+의해 가려져 있을 수 있습니다.} 
+Reaching_and_Grasping
+[경고: bbci_acquire_bv: no open connection to close!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Reaching_and_Grasping', 'F:\Demo\Reaching_and_Grasping.m', 7)" style="font-weight:bold">Reaching_and_Grasping</a> (<a href="matlab: opentoline('F:\Demo\Reaching_and_Grasping.m',7,0)">line 7</a>)] 
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoComm')" style="font-weight:bold">JacoComm</a>
+지정된 슈퍼클래스 'matlab.system.mixin.internal.SampleTime'에 구문 분석 오류가 있거나 MATLAB의 검색 경로에서 이 클래스를 찾을 수 없습니다. 또는 이 클래스가 동일한 이름의 다른 파일에 의해
+가려져 있을 수 있습니다.
+오류 발생: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Reaching_and_Grasping', 'F:\Demo\Reaching_and_Grasping.m', 10)" style="font-weight:bold">Reaching_and_Grasping</a> (<a href="matlab: opentoline('F:\Demo\Reaching_and_Grasping.m',10,0)">line 10</a>)
+jc = JacoComm; % JacoComm 펑션 jc 로 불러오기} 
+opentoline('F:\Demo\Reaching_and_Grasping.m',10,0)
+Reaching_and_Grasping
+[경고: bbci_acquire_bv: no open connection to close!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Reaching_and_Grasping', 'F:\Demo\Reaching_and_Grasping.m', 7)" style="font-weight:bold">Reaching_and_Grasping</a> (<a href="matlab: opentoline('F:\Demo\Reaching_and_Grasping.m',7,0)">line 7</a>)] 
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JacoComm')" style="font-weight:bold">JacoComm</a>
+지정된 슈퍼클래스 'matlab.system.mixin.internal.SampleTime'에 구문 분석 오류가 있거나 MATLAB의 검색 경로에서 이 클래스를 찾을 수 없습니다. 또는 이 클래스가 동일한 이름의 다른 파일에 의해
+가려져 있을 수 있습니다.
+오류 발생: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Reaching_and_Grasping', 'F:\Demo\Reaching_and_Grasping.m', 10)" style="font-weight:bold">Reaching_and_Grasping</a> (<a href="matlab: opentoline('F:\Demo\Reaching_and_Grasping.m',10,0)">line 10</a>)
+jc = JacoComm; % JacoComm 펑션 jc 로 불러오기} 
+uiopen('C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Jaco_KINOVA_V3.m',1)
+Jaco_KINOVA_V3
+[경고: bbci_acquire_bv: no open connection to close!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Jaco_KINOVA_V3', 'C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Jaco_KINOVA_V3.m', 3)" style="font-weight:bold">Jaco_KINOVA_V3</a> (<a href="matlab: opentoline('C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Jaco_KINOVA_V3.m',3,0)">line 3</a>)] 
+[경고: acquire_bv: cannot connect to server] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Jaco_KINOVA_V3', 'C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Jaco_KINOVA_V3.m', 5)" style="font-weight:bold">Jaco_KINOVA_V3</a> (<a href="matlab: opentoline('C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Jaco_KINOVA_V3.m',5,0)">line 5</a>)] 
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bbci_acquire_bv')" style="font-weight:bold">bbci_acquire_bv</a>
+bbci_acquire_bv: open a connection first!
+오류 발생: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Jaco_KINOVA_V3', 'C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Jaco_KINOVA_V3.m', 14)" style="font-weight:bold">Jaco_KINOVA_V3</a> (<a href="matlab: opentoline('C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Jaco_KINOVA_V3.m',14,0)">line 14</a>)
+    [data, markertime, markerdescr, state] = bbci_acquire_bv(state);} 
+Jaco_KINOVA_V3
+[경고: bbci_acquire_bv: no open connection to close!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Jaco_KINOVA_V3', 'C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Jaco_KINOVA_V3.m', 3)" style="font-weight:bold">Jaco_KINOVA_V3</a> (<a href="matlab: opentoline('C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Jaco_KINOVA_V3.m',3,0)">line 3</a>)] 
+[경고: acquire_bv: cannot connect to server] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Jaco_KINOVA_V3', 'C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Jaco_KINOVA_V3.m', 5)" style="font-weight:bold">Jaco_KINOVA_V3</a> (<a href="matlab: opentoline('C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Jaco_KINOVA_V3.m',5,0)">line 5</a>)] 
+{다음 사용 중 오류가 발생함: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('bbci_acquire_bv')" style="font-weight:bold">bbci_acquire_bv</a>
+bbci_acquire_bv: open a connection first!
+오류 발생: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Jaco_KINOVA_V3', 'C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Jaco_KINOVA_V3.m', 14)" style="font-weight:bold">Jaco_KINOVA_V3</a> (<a href="matlab: opentoline('C:\Users\RobotArm\Desktop\OnlineRobot\Legacy\Jaco_KINOVA_V3.m',14,0)">line 14</a>)
+    [data, markertime, markerdescr, state] = bbci_acquire_bv(state);} 
