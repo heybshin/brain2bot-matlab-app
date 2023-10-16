@@ -14,9 +14,9 @@ The application provides a user-friendly GUI to demonstrate the integration of r
 
 1. Clone the repository:
 
-\```
+```
 git clone https://github.com/heybshin/brain2bot-matlab-app.git
-\```
+```
 
 2. Open MATLAB and navigate to the directory containing the app.
 3. Run the `brain2bot.m` script to launch the application.
@@ -31,12 +31,6 @@ This application relies on several external tools and libraries for its function
 - **BBCI Public**: An essential toolset for EEG data acquisition and processing. You can access and set it up from their GitHub repository [here](https://github.com/bbci/bbci_public).
 
 Ensure you have all these dependencies set up and correctly configured before attempting to run the Brain2Bot application.
-
-## Usage
-
-1. **Mode Selection**: After launching, select either 'Real' or 'Virtual' mode.
-2. **Task Execution**: Start the task sequence. The app will guide the user through each step, providing visual feedback.
-3. **Error Handling**: In case of any issues, an error message will be displayed. Users can then decide to continue or exit.
 
 ## License
 
