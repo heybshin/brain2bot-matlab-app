@@ -1,6 +1,10 @@
 # Brain2Bot MATLAB App
 
 The application provides a user-friendly GUI to demonstrate the integration of real-time processing of EEG signals acquired using BrainVision device and control of Kinova Jaco robotic arm.
+![HomeMenu2](https://github.com/heybshin/brain2bot-matlab-app/assets/57985020/a46d756a-f5a0-49f9-a6a8-ebf4954684d4)
+
+![ModeSelection2](https://github.com/heybshin/brain2bot-matlab-app/assets/57985020/5c208bde-aaf5-4745-9530-8590d0f0aac1)
+
 
 ## Features
 
