@@ -10,17 +10,15 @@ The application provides a user-friendly GUI to demonstrate the integration of r
 - **Test Modes**: The application offers the option to run in test mode, simulating EEG outputs for development and debugging purposes.
 - **Interactive GUI**: A comprehensive graphical interface provides real-time feedback, video playback, and interactive controls for users.
 
-## Setup
+## Setup & Usage
 
-1. Clone the repository:
+**For Developers and MATLAB Users**:
+- `brain2bot.m`: Contains the main logic of the application. Use this to view or edit the code.
+- `brain2bot.mlapp`: This file can be opened with MATLAB's App Designer, allowing you to run and test the application through its interface.
 
-```
-git clone https://github.com/heybshin/brain2bot-matlab-app.git
-```
-
-2. Open MATLAB and navigate to the directory containing the app.
-3. Run the `brain2bot.m` script to launch the application.
-4. Follow the on-screen instructions to operate in either Real or Virtual mode.
+**For Standalone Users**:
+- Install and execute the standalone `brain2bot.exe`, based on the details provided in the `readme.txt`. 
+- While the application does not require MATLAB or any other software/toolbox, it does depend on MATLAB Runtime 2021b. Users will be given instructions for setting it up during the installation.
 
 ## Dependencies
 
