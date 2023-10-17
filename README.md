@@ -27,7 +27,7 @@ git clone https://github.com/heybshin/brain2bot-matlab-app.git
 This application relies on several external tools and libraries for its functionality:
 
 - **MATLAB**: The primary platform for this application. The app has been tested and developed using versions 2021 and 2022 of MATLAB.
-- **Kinova MATLAB API Wrapper**: This library, available [here](https://github.com/Kinovarobotics/matlab_Kinovaapi_wrapper), provides the necessary tools to interface with Kinova's robotic arms, particularly the Jaco SDK.
+- **Kinova MATLAB API Wrapper**: This library, available [here](https://github.com/Kinovarobotics/matlab_Kinovaapi_wrapper), provides the necessary tools to interface with Kinova's robotic arms, particularly the Jaco SDK. Also provided in this repository, for reference.
 - **BBCI Public**: An essential toolset for EEG data acquisition and processing. You can access and set it up from their GitHub repository [here](https://github.com/bbci/bbci_public).
 
 Ensure you have all these dependencies set up and correctly configured before attempting to run the Brain2Bot application.
