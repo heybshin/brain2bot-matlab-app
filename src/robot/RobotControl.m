@@ -15,7 +15,7 @@ function outputLog = RobotControl(obj, type, pos, interval, lag)
 
     switch (type)
         case 'reach'
-            moveToCP(obj, pos);
+            MoveToCartPos(obj, pos);
             pause(lag);
         case 'grasp'
             sendFingerPositionCommand(obj, pos);
